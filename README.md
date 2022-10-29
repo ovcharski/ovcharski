@@ -1,3 +1,5 @@
+![](/QA.gif)  
+
 - 👋 Hi, I’m @ovcharski
 - 👀 I’m interested in modern automation frameworks
 - 🌱 I’m currently learning Playwright
