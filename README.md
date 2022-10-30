@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ovcharski
 - 👀 I’m interested in modern automation frameworks
-- 🌱 I’m currently learning Playwright
+- 🌱 I’m currently learning Playwright, TypeScript, AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
